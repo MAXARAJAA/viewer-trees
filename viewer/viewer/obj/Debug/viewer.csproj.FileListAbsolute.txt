@@ -1,0 +1,11 @@
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\bin\Debug\viewer.exe.config
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\bin\Debug\viewer.exe
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\bin\Debug\viewer.pdb
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\obj\Debug\viewer.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\obj\Debug\viewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\obj\Debug\viewer.Form1.resources
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\obj\Debug\viewer.Properties.Resources.resources
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\obj\Debug\viewer.csproj.GenerateResource.cache
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\obj\Debug\viewer.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\obj\Debug\viewer.exe
+C:\Users\bohsh\Desktop\visual\Builder\viewer\viewer\obj\Debug\viewer.pdb
